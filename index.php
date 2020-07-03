@@ -1,3 +1,4 @@
 <?php
-  echo 'Welcome'; exit;
+  echo 'Welcome';
+  echo 'world'; exit;
 ?>
