@@ -1,5 +1,5 @@
 <?php
   echo 'Welcome';
-  echo 'all';
+  echo 'all';đ
   echo 'world'; exit;
 ?>
